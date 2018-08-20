@@ -1,0 +1,41 @@
+{
+  "id": "8ab72efc-c327-432c-9b33-b256f0d38f02",
+  "name": "clothing.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "clothing.add",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a571d21f-ba8d-4d75-99e3-93519232c1bd",
+          "required": false,
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok, I added the item.",
+            "Okay, I have added $product to your cart in the Clothing section!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529306480,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f96a0cc9-3b0c-4acf-bae4-124e04e4b229",
+    "data": [
+      {
+        "text": "purchase ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 rupees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299595
+  },
+  {
+    "id": "dbd85c6f-a437-49a9-9155-2e416a625bfb",
+    "data": [
+      {
+        "text": "I need to buy a gift card worth ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 rupees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299595
+  },
+  {
+    "id": "43b1621b-73cd-4d73-b8b1-b1e1accd89e6",
+    "data": [
+      {
+        "text": "most popular one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299595
+  },
+  {
+    "id": "ebe70ea4-966c-49a2-9c24-0b524282039e",
+    "data": [
+      {
+        "text": "second one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1a82c1c-d658-404c-95c9-7f1d08af74a2",
+    "data": [
+      {
+        "text": "thousand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299595
+  },
+  {
+    "id": "a97352c3-984f-4abf-94f9-7f29f6cf8348",
+    "data": [
+      {
+        "text": "Rs. 1000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299595
+  },
+  {
+    "id": "29bfa0fe-42a5-40f3-869e-8aa369f1d353",
+    "data": [
+      {
+        "text": "1000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299595
+  },
+  {
+    "id": "1e5012e7-d0e6-4905-a271-759c59fd51be",
+    "data": [
+      {
+        "text": "how about the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

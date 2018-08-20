@@ -1,0 +1,39 @@
+[
+  {
+    "value": "laptop",
+    "synonyms": [
+      "laptop"
+    ]
+  },
+  {
+    "value": "earphones",
+    "synonyms": [
+      "earphones"
+    ]
+  },
+  {
+    "value": "television",
+    "synonyms": [
+      "television",
+      "tv"
+    ]
+  },
+  {
+    "value": "headphones",
+    "synonyms": [
+      "headphones"
+    ]
+  },
+  {
+    "value": "speakers",
+    "synonyms": [
+      "speakers"
+    ]
+  },
+  {
+    "value": "cameras",
+    "synonyms": [
+      "cameras"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "value": "clothes",
+    "synonyms": [
+      "clothes"
+    ]
+  },
+  {
+    "value": "jeans",
+    "synonyms": [
+      "jeans"
+    ]
+  },
+  {
+    "value": "shirt",
+    "synonyms": [
+      "shirt"
+    ]
+  },
+  {
+    "value": "polo",
+    "synonyms": [
+      "polo"
+    ]
+  },
+  {
+    "value": "T-shirt",
+    "synonyms": [
+      "T-shirt"
+    ]
+  },
+  {
+    "value": "sweater",
+    "synonyms": [
+      "sweater"
+    ]
+  },
+  {
+    "value": "jacket",
+    "synonyms": [
+      "jacket"
+    ]
+  },
+  {
+    "value": "Saari",
+    "synonyms": [
+      "Saari"
+    ]
+  },
+  {
+    "value": "Suit",
+    "synonyms": [
+      "Suit"
+    ]
+  },
+  {
+    "value": "Track pants",
+    "synonyms": [
+      "Track pants"
+    ]
+  },
+  {
+    "value": "Joggers",
+    "synonyms": [
+      "Joggers"
+    ]
+  },
+  {
+    "value": "Kurta",
+    "synonyms": [
+      "Kurta"
+    ]
+  },
+  {
+    "value": "Tops",
+    "synonyms": [
+      "Tops"
+    ]
+  }
+]

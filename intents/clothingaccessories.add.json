@@ -1,0 +1,37 @@
+{
+  "id": "64507e55-e5c0-491d-9f4d-6077d2470caf",
+  "name": "clothingaccessories.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "clothingaccessories.add",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae4bd23b-dc0c-46c1-b185-0f8d0f7b1941",
+          "dataType": "@clothingaccessories",
+          "name": "clothingaccessories",
+          "value": "$clothingaccessories",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, I have added $clothingaccessories to your cart in the Clothing Accessories section! Enjoy!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529307281,
+  "fallbackIntent": false,
+  "events": []
+}

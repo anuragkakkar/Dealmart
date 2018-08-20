@@ -1,0 +1,288 @@
+[
+  {
+    "id": "b904f85d-b917-4415-80fc-197d9b14716c",
+    "data": [
+      {
+        "text": "special deals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "81f2ffa2-61fe-44c7-b350-7625c58107b8",
+    "data": [
+      {
+        "text": "Which deals should I apply here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "5f506ab4-7c3e-482f-90e7-c24837d410d8",
+    "data": [
+      {
+        "text": "is there i can buy the product at a discounted price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "5397de23-b379-4f6f-b87a-654ca1c9284c",
+    "data": [
+      {
+        "text": "are there any new deals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "ac8f764b-14b2-4672-aba5-97f5422cc4e3",
+    "data": [
+      {
+        "text": "are there any new offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "818f31f9-123c-49ff-ab21-f6234ec08a37",
+    "data": [
+      {
+        "text": "new deals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "2bf645e1-668c-4126-b250-5e94fadaa4be",
+    "data": [
+      {
+        "text": "new offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "cb54ed9a-050c-4e6e-9bb4-ce36269a27b4",
+    "data": [
+      {
+        "text": "discounted price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "78664ca4-13cd-455c-891c-cb08e57922fb",
+    "data": [
+      {
+        "text": "offers provided",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "c7b4adee-713c-4e15-b8ee-d9f31bb7f792",
+    "data": [
+      {
+        "text": "What are some of the offers that you provide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "d3852876-4fb4-4ce6-aada-52121de0e2af",
+    "data": [
+      {
+        "text": "do you have any discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "c6040a72-1b02-43d8-ac70-520a2c169138",
+    "data": [
+      {
+        "text": "any special offers ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "9d8d43c8-1c27-43c5-bcda-83c9da9be780",
+    "data": [
+      {
+        "text": "can I have a discounts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "3e972e79-6b30-49b1-8e9f-5a6857c2e8af",
+    "data": [
+      {
+        "text": "do you have special offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "c26df51e-161a-4860-a16e-9c62a6c17a69",
+    "data": [
+      {
+        "text": "can I see deals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "0c46b76a-75b3-48c6-989c-0758892a400e",
+    "data": [
+      {
+        "text": "special price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "30f8109e-b416-4695-9b8c-f9b8c7c87a55",
+    "data": [
+      {
+        "text": "it\u0027s too expensive for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "6e39bd25-1785-49b9-9e70-b04f653580a5",
+    "data": [
+      {
+        "text": "do you have clearance items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529318038
+  },
+  {
+    "id": "c7729a3d-907a-49e9-944a-0d68bc89c2c4",
+    "data": [
+      {
+        "text": "any sales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529318038
+  },
+  {
+    "id": "10fa7107-84cc-4678-bbac-bc1f357e8197",
+    "data": [
+      {
+        "text": "some products are very expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508879459
+  },
+  {
+    "id": "2346f02f-4144-409f-9f99-8b62205c02ad",
+    "data": [
+      {
+        "text": "current offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508879459
+  },
+  {
+    "id": "4ad519b7-d6b7-434d-9421-26e064f4c6a5",
+    "data": [
+      {
+        "text": "too expensive for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508879459
+  },
+  {
+    "id": "bdbc01e5-33b1-42e3-9d83-bdab8f4dbf85",
+    "data": [
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508879459
+  }
+]

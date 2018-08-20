@@ -1,0 +1,36 @@
+{
+  "id": "7fb7ca74-3331-4ab9-b908-c2f02c2dd827",
+  "parentId": "05535055-2e79-4f1a-8ced-3473642a9c28",
+  "rootParentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search - select.number - yes - custom",
+  "auto": true,
+  "contexts": [
+    "productsearch-selectnumber-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search.select.number.yes.productsearch-selectnumber-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Your welcome.",
+            "No worries."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529337348,
+  "fallbackIntent": false,
+  "events": []
+}

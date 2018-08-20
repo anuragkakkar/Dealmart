@@ -1,0 +1,72 @@
+{
+  "id": "91366aa5-e01f-4f23-9d46-a2d615a21b26",
+  "name": "check_out",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "check_out",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8626bea-ecd3-4a94-9bdc-d087ed9a82fa",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "card-number",
+          "value": "$card-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To check out, I\u0027ll need some information from you. What\u0027s your card number?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "569a8474-e1dc-47ef-b366-adb768a6b6cc",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "CVV",
+          "value": "$cvv",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And, the CVV on your card?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "075cda64-6439-49a8-a8af-72c0201173f8",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Lastly, I need your full name the way it appears on the card."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you for providing the information. Your purchase is complete."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529338854,
+  "fallbackIntent": false,
+  "events": []
+}

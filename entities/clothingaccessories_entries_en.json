@@ -1,0 +1,86 @@
+[
+  {
+    "value": "hat",
+    "synonyms": [
+      "hat",
+      "cap"
+    ]
+  },
+  {
+    "value": "glasses",
+    "synonyms": [
+      "glasses",
+      "spectacles"
+    ]
+  },
+  {
+    "value": "sunglasses",
+    "synonyms": [
+      "sunglasses"
+    ]
+  },
+  {
+    "value": "shoes",
+    "synonyms": [
+      "shoes",
+      "snickers",
+      "boots"
+    ]
+  },
+  {
+    "value": "watch",
+    "synonyms": [
+      "watch"
+    ]
+  },
+  {
+    "value": "Earrings",
+    "synonyms": [
+      "Earrings"
+    ]
+  },
+  {
+    "value": "Bangles",
+    "synonyms": [
+      "Bangles"
+    ]
+  },
+  {
+    "value": "Anklets",
+    "synonyms": [
+      "Anklets"
+    ]
+  },
+  {
+    "value": "Smart watch",
+    "synonyms": [
+      "Smart watch",
+      "Smartwatch"
+    ]
+  },
+  {
+    "value": "Rings",
+    "synonyms": [
+      "Rings"
+    ]
+  },
+  {
+    "value": "Bracelets",
+    "synonyms": [
+      "Bracelets"
+    ]
+  },
+  {
+    "value": "Bands",
+    "synonyms": [
+      "Bands",
+      "friendship bands"
+    ]
+  },
+  {
+    "value": "Socks",
+    "synonyms": [
+      "Socks"
+    ]
+  }
+]

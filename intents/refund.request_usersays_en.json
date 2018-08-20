@@ -1,0 +1,460 @@
+[
+  {
+    "id": "fc306d4e-516b-457c-ac1e-dcae49be1ea9",
+    "data": [
+      {
+        "text": "take back ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "580f5e44-f3e5-41fc-b7f1-0141793715a0",
+    "data": [
+      {
+        "text": "take back ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "e196dd42-83c6-400d-a814-503eebfe0695",
+    "data": [
+      {
+        "text": "take back ",
+        "userDefined": false
+      },
+      {
+        "text": "headphones",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "eb0673c9-6d20-438f-bef2-1efcdb53e39e",
+    "data": [
+      {
+        "text": "take back ",
+        "userDefined": false
+      },
+      {
+        "text": "t-shirt",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "e70ae63d-8255-4e54-afad-f4f9a7680afc",
+    "data": [
+      {
+        "text": "take back ",
+        "userDefined": false
+      },
+      {
+        "text": "oneplus",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "5c36e730-2694-469a-beb8-bb71e43cd732",
+    "data": [
+      {
+        "text": "take back your product.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "76495b2b-6352-4773-ae23-77e562684527",
+    "data": [
+      {
+        "text": "I would like to return the ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "ca9af25e-27ef-4825-bc64-a89f80a49788",
+    "data": [
+      {
+        "text": "I would like to return the ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "33ec501a-b7de-4968-a19a-5a71d334fb6b",
+    "data": [
+      {
+        "text": "I would like to return the ",
+        "userDefined": false
+      },
+      {
+        "text": "jeans",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "350f822d-4a75-4d0a-a1f4-ffa3050f4f40",
+    "data": [
+      {
+        "text": "I would like to return the ",
+        "userDefined": false
+      },
+      {
+        "text": "earphones",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "96debb79-1813-43e0-ba80-f1bf01815a19",
+    "data": [
+      {
+        "text": "I would like to return the ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "d53f0dcb-ec04-414a-b281-19827938f59c",
+    "data": [
+      {
+        "text": "I would like to return the ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "c1d478f7-b681-4aba-8c61-546e2c9e8376",
+    "data": [
+      {
+        "text": "This is not what I ordered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "6abe1ea2-487e-4e3a-a148-956fce07bd97",
+    "data": [
+      {
+        "text": "product is not what i wanted.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "f28d08de-b2ca-4688-9e02-75d85f21a6e5",
+    "data": [
+      {
+        "text": "help me i don\u0027t need your product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "7f0f0396-9729-4967-adb8-a55ae7cb0afc",
+    "data": [
+      {
+        "text": "this is not what i wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "8c2b256a-3f3a-4fcd-8f28-2dd68b9088c8",
+    "data": [
+      {
+        "text": "I ordered something else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "6a24996a-b5bb-4e96-993a-b1edff18e352",
+    "data": [
+      {
+        "text": "I like to return your product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "59a864ef-32ae-4886-958e-b7a0f4d81421",
+    "data": [
+      {
+        "text": "i ordered a different product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "0990300f-fe12-4360-a615-baa63d1e94b8",
+    "data": [
+      {
+        "text": "I received a damaged item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "3cec5612-08db-4de2-bcb7-0807abb14e8d",
+    "data": [
+      {
+        "text": "Can I get my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "bea2f5c7-fb38-4123-b7bf-0844c04775f0",
+    "data": [
+      {
+        "text": "I want to return my purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "8c272231-770d-4a3e-896c-a4b78af47b40",
+    "data": [
+      {
+        "text": "I\u0027d like to cancel purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "040c79d7-3fc2-4e50-9795-d5f914bae927",
+    "data": [
+      {
+        "text": "I request a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "06537679-5532-4c97-bb25-c385297af271",
+    "data": [
+      {
+        "text": "I want my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "bec87f5c-367e-4113-8fbb-dfbf5b2b9fc1",
+    "data": [
+      {
+        "text": "Refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "aabe760c-3e94-40b4-b3a3-1e169f3d9a71",
+    "data": [
+      {
+        "text": "I want to make an exchange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "33a43d1e-19ea-460a-820b-f65edca52bb6",
+    "data": [
+      {
+        "text": "I received a wrong item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "8c6c6942-5446-4321-a52b-512d3fbc87e9",
+    "data": [
+      {
+        "text": "cancel purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  },
+  {
+    "id": "13276918-e833-40ac-90ec-0f538f562493",
+    "data": [
+      {
+        "text": "I want to get refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529954837
+  }
+]

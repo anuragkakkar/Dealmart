@@ -1,0 +1,134 @@
+[
+  {
+    "id": "a4c6f8a6-4d6d-4fdd-8624-b68f5bfa74ca",
+    "data": [
+      {
+        "text": "this ",
+        "userDefined": false
+      },
+      {
+        "text": "watch",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " is amazing add it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529307281
+  },
+  {
+    "id": "25729408-85ed-449c-9054-bc1d9755972a",
+    "data": [
+      {
+        "text": "I need these ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " add them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529307281
+  },
+  {
+    "id": "927c80ec-1124-4825-99ba-d19d08a305f3",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " to the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529307281
+  },
+  {
+    "id": "8a6c07f3-907f-4f71-9416-d6405e0378cc",
+    "data": [
+      {
+        "text": "add these ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " to my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529307281
+  },
+  {
+    "id": "13f0d8f1-3478-403d-9864-7148de135959",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "cap",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " to my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529307281
+  },
+  {
+    "id": "8a2dc3ae-3391-43e7-93c7-53558c019872",
+    "data": [
+      {
+        "text": "I love this ",
+        "userDefined": false
+      },
+      {
+        "text": "hat",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " add it to the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529307281
+  }
+]

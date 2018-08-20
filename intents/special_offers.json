@@ -1,0 +1,43 @@
+{
+  "id": "1a7e753b-f496-4bda-b76b-7da64c49da97",
+  "name": "special_offers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "special_offers",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can take a look at our special offers and discount offers at our Special Offers page."
+        },
+        {
+          "type": 1,
+          "platform": "slack",
+          "lang": "en",
+          "title": "",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "http://example.com/"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529318038,
+  "fallbackIntent": false,
+  "events": []
+}

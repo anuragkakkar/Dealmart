@@ -1,0 +1,29 @@
+{
+  "id": "63e7ca13-e661-4eaa-95ba-8477a7772ad1",
+  "name": "order.change",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.change",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To make changes to your order, first sign in to your account. You can make your changes on the order page and then submit it. A ticket will be generated against your change and details will be sent to you via e-mail."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529312205,
+  "fallbackIntent": false,
+  "events": []
+}

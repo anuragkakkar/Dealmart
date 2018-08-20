@@ -1,0 +1,668 @@
+[
+  {
+    "id": "79e6ace7-e10b-438b-89ad-8f889a10bde8",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "46efca1e-77ab-48b0-9f2d-56fde1c67e04",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "caps",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "7b22feae-d25b-4aa5-b0c4-69f18521e681",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "cap",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "403f238a-90d2-4dfd-82e9-1b174e0c7071",
+    "data": [
+      {
+        "text": "Show me some ",
+        "userDefined": false
+      },
+      {
+        "text": "jeans",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "d8d85a0c-18c1-4893-a1c1-f1e01c1c5381",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "iphones",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "a477be35-a7a5-4924-8bfa-962a3a90e0f2",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "books",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "1cbd206b-23e9-4e79-931a-869f4dcffd25",
+    "data": [
+      {
+        "text": "Show me some ",
+        "userDefined": false
+      },
+      {
+        "text": "headphones",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "35ae314c-9e59-49f4-853b-c7a56af1b05b",
+    "data": [
+      {
+        "text": "Show me some ",
+        "userDefined": false
+      },
+      {
+        "text": "hats",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "98c6bf42-936d-4c26-a886-a817c616a378",
+    "data": [
+      {
+        "text": "I would like to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "2e2042dd-22b7-4f4d-bd65-95911063496e",
+    "data": [
+      {
+        "text": "I would like to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "hat",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "9a35ba7b-0af5-4fca-9e43-f35756238f68",
+    "data": [
+      {
+        "text": "I would like to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "3105da6b-c448-4945-a7b2-ae6ab9b5beb5",
+    "data": [
+      {
+        "text": "I would like to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "earphones",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "a1e91da5-914d-4556-a290-211a99e12ebf",
+    "data": [
+      {
+        "text": "I would like to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "Shirt",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "67ba5c44-8d05-4a1d-98d5-f0a3f2a1d6f8",
+    "data": [
+      {
+        "text": "I would like to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "T-shirt",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "8704c677-ff0d-47d0-a035-90841089030e",
+    "data": [
+      {
+        "text": "I would like to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "0ecd60d8-9b6b-4bae-931f-6aa8afb99f56",
+    "data": [
+      {
+        "text": "I need a new ",
+        "userDefined": false
+      },
+      {
+        "text": "phone",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "33eae270-8ce6-45e2-91bc-6229ebed94c7",
+    "data": [
+      {
+        "text": "I want to buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "phone",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "b6b01ed2-96cf-47c5-895e-d5e0ec1cba71",
+    "data": [
+      {
+        "text": "hunt for a ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "59eef10a-e816-4033-b385-8fcc941bcaaf",
+    "data": [
+      {
+        "text": "looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "oneplus",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "e3c782d6-70b2-4b4d-9442-391a32d32d0b",
+    "data": [
+      {
+        "text": "searching for ",
+        "userDefined": false
+      },
+      {
+        "text": "polo",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "5641493a-1940-4f90-87b3-3caaf6e79a5c",
+    "data": [
+      {
+        "text": "i demand a ",
+        "userDefined": false
+      },
+      {
+        "text": "iphone",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "1ab68f11-dbea-4451-966d-02c254278a7e",
+    "data": [
+      {
+        "text": "desperate for a ",
+        "userDefined": false
+      },
+      {
+        "text": "boots",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "3c72287c-dd17-4daa-a526-6657e7772258",
+    "data": [
+      {
+        "text": "I need new ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "7fbf655f-40b9-42d9-a707-304a9d2b7b7c",
+    "data": [
+      {
+        "text": "need a new ",
+        "userDefined": false
+      },
+      {
+        "text": "headphone",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529953506
+  },
+  {
+    "id": "18fea657-e1f3-4863-98d6-09d79857683c",
+    "data": [
+      {
+        "text": "I require a new ",
+        "userDefined": false
+      },
+      {
+        "text": "shirt",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "48938a6d-8608-4859-a01f-e216474d54f4",
+    "data": [
+      {
+        "text": "place a ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      },
+      {
+        "text": " to my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "a10b7e53-59f0-43d0-899a-5635d30ac14a",
+    "data": [
+      {
+        "text": "add the ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": false
+      },
+      {
+        "text": " to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "fc3e87b3-a324-4091-95b5-98160345dba0",
+    "data": [
+      {
+        "text": "I need new ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "f9a25445-3eea-4e9a-a4db-ee74daa8ff39",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "e9c8c4ba-ea07-4ac3-b381-2bd084d3b177",
+    "data": [
+      {
+        "text": "search for ",
+        "userDefined": false
+      },
+      {
+        "text": "T-shirts",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "bc98b632-c8c3-422a-aaf9-569f3a9d4f85",
+    "data": [
+      {
+        "text": "add the ",
+        "userDefined": false
+      },
+      {
+        "text": "hat",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " to my basket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "2da6fd67-f324-48f7-aadf-3d4486d64073",
+    "data": [
+      {
+        "text": "I\u0027m looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "2865553e-c2ab-43ad-8c4d-625ceef0f11e",
+    "data": [
+      {
+        "text": "put the ",
+        "userDefined": false
+      },
+      {
+        "text": "T-Shirt",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " to my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  },
+  {
+    "id": "cd750e99-bcb2-47a8-b793-d2a5741325fc",
+    "data": [
+      {
+        "text": "I want to buy something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529316564
+  }
+]

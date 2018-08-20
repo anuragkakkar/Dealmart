@@ -1,0 +1,44 @@
+{
+  "id": "fcb8a584-5ca1-41c7-b67e-34a35dd53602",
+  "name": "order.status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StatusOrder.StatusOrder-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ce2203d-52b0-410e-ae51-8f559f0e8d75",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "orderNumber",
+          "value": "$orderNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Okay, tell me your order number."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are the details on your order status:Order Number: $orderNumber."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529950381,
+  "fallbackIntent": false,
+  "events": []
+}

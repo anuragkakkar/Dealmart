@@ -1,0 +1,36 @@
+{
+  "id": "11ffc3d5-eb8d-4558-9914-0a5e35f45368",
+  "parentId": "0b5d936b-8b1e-4c08-bed6-a844c8fc4514",
+  "rootParentId": "0b5d936b-8b1e-4c08-bed6-a844c8fc4514",
+  "name": "refund.policy - email_id",
+  "auto": true,
+  "contexts": [
+    "refundpolicy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "refundpolicy.refundpolicy-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Our e-mail ID is admin@dialogflow.com.",
+            "You can reach us at admin@dialogflow.com."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529340244,
+  "fallbackIntent": false,
+  "events": []
+}

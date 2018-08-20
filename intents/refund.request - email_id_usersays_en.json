@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16e27fd8-717e-4f03-a10f-3c52341efe4a",
+    "data": [
+      {
+        "text": "Please tell me e-mail id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529340205
+  },
+  {
+    "id": "25244195-eda8-45bc-9cbb-41b492ce8f45",
+    "data": [
+      {
+        "text": "email id please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529340205
+  },
+  {
+    "id": "2d3684f9-3d01-4ca3-ae43-d60e97d902ff",
+    "data": [
+      {
+        "text": "tell me email id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529340205
+  },
+  {
+    "id": "bf8d6042-92cb-4b17-a0c5-f6fe61b202fd",
+    "data": [
+      {
+        "text": "provide me your email id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529340205
+  },
+  {
+    "id": "c4107102-24eb-4f69-9241-a8650c177c2f",
+    "data": [
+      {
+        "text": "what\u0027s your email id?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529340205
+  },
+  {
+    "id": "17beb4ba-6e43-4788-b3ba-3a2a42980cd0",
+    "data": [
+      {
+        "text": "Okay, what is your e-mail id then?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529340205
+  }
+]

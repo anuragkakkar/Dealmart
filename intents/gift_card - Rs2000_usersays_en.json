@@ -1,0 +1,155 @@
+[
+  {
+    "id": "bc139650-4311-4e95-8240-453fb9a630ad",
+    "data": [
+      {
+        "text": "purchase ",
+        "userDefined": false
+      },
+      {
+        "text": "2000 rupees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299658
+  },
+  {
+    "id": "bdcd4d8a-583e-40fd-a8a1-375d772b55b5",
+    "data": [
+      {
+        "text": "most expensive ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "236fc953-cdbb-4454-830e-1577b2befe53",
+    "data": [
+      {
+        "text": "I need a gift card for Rs. ",
+        "userDefined": false
+      },
+      {
+        "text": "2000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "c282a59c-afbf-435f-8fd2-2f371f2ceeb6",
+    "data": [
+      {
+        "text": "how about the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "b188de0d-ce00-49f7-bd1b-ccdcaee5a981",
+    "data": [
+      {
+        "text": "first one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "7d3af340-6700-4a14-9eda-26957353f7fb",
+    "data": [
+      {
+        "text": "2000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "ca8a2cfd-2c77-454c-8cd7-270085befa5b",
+    "data": [
+      {
+        "text": "how about the one for ",
+        "userDefined": false
+      },
+      {
+        "text": "2000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rupees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "1ee88045-762d-4e88-9bfa-3eb05009c8f4",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " thousand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  },
+  {
+    "id": "0cde9195-c9d7-449b-b77c-860202d0e1b3",
+    "data": [
+      {
+        "text": "Rs. 2000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299416
+  }
+]

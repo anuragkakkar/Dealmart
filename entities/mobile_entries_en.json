@@ -1,0 +1,38 @@
+[
+  {
+    "value": "mobile",
+    "synonyms": [
+      "mobile"
+    ]
+  },
+  {
+    "value": "iphone",
+    "synonyms": [
+      "iphone"
+    ]
+  },
+  {
+    "value": "oneplus",
+    "synonyms": [
+      "oneplus"
+    ]
+  },
+  {
+    "value": "samsung",
+    "synonyms": [
+      "samsung"
+    ]
+  },
+  {
+    "value": "micromax",
+    "synonyms": [
+      "micromax"
+    ]
+  },
+  {
+    "value": "Redme",
+    "synonyms": [
+      "Redme"
+    ]
+  }
+]

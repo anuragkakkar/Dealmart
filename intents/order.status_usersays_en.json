@@ -1,0 +1,158 @@
+[
+  {
+    "id": "df6b9f57-de0c-42de-99c1-3b01e57f38a0",
+    "data": [
+      {
+        "text": "did the shipping of my order started?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "39e94b18-3c65-4806-a8bd-f5c2d8155c60",
+    "data": [
+      {
+        "text": "is my order on its way?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "65c48d37-616b-4997-a59d-40e623cda606",
+    "data": [
+      {
+        "text": "order status details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "01a501d8-ce44-42b3-baea-b034d9159508",
+    "data": [
+      {
+        "text": "did my order reach the destination?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "6659c90e-99b4-4764-b655-f15bb0063946",
+    "data": [
+      {
+        "text": "what is the status of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "8092962b-7e5b-482d-a458-8db9410d25f5",
+    "data": [
+      {
+        "text": "my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "fa362cfd-3ca0-411d-abd6-6869cf097bd0",
+    "data": [
+      {
+        "text": "find my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "df018831-b90c-4cea-870c-ddbe55ad2634",
+    "data": [
+      {
+        "text": "what\u0027s my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "38a72b62-57a2-4099-b9fe-f83a7439ccf8",
+    "data": [
+      {
+        "text": "check my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "d420d412-3fa1-41fe-a650-328ff99cf618",
+    "data": [
+      {
+        "text": "where is my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "cd6cf51d-e12f-403e-aa51-12a45796722b",
+    "data": [
+      {
+        "text": "can you check my orders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "792f1c18-63c4-456f-9d70-6294d3fb1479",
+    "data": [
+      {
+        "text": "my orders",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  },
+  {
+    "id": "67255876-c901-4cc1-8491-7a136456f862",
+    "data": [
+      {
+        "text": "where is my package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529950188
+  }
+]

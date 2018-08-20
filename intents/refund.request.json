@@ -1,0 +1,83 @@
+{
+  "id": "89e747fa-3e11-407a-bbef-891e7cf20d3d",
+  "name": "refund.request",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "refund.request",
+      "affectedContexts": [
+        {
+          "name": "refundrequest-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "842935e0-ffe7-412e-bca3-bd8332ed993e",
+          "dataType": "@electronics",
+          "name": "electronics",
+          "value": "$electronics",
+          "isList": false
+        },
+        {
+          "id": "3a1e3900-ef66-4191-9483-e45e6f1ffdb0",
+          "dataType": "@book",
+          "name": "book",
+          "value": "$book",
+          "isList": false
+        },
+        {
+          "id": "e636544b-c842-4644-a96c-cb24c9518634",
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        },
+        {
+          "id": "ac1a26f8-b117-4d71-878e-071dc8bfe32d",
+          "dataType": "@clothingaccessories",
+          "name": "clothingaccessories",
+          "value": "$clothingaccessories",
+          "isList": false
+        },
+        {
+          "id": "ed6d44d4-9741-43fc-909d-13a1721946b0",
+          "dataType": "@mobile",
+          "name": "mobile",
+          "value": "$mobile",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Refund policy"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You may return or exchange any items. There may be a shipping charge for exchanges. For more details, contact us at our e-mail."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529954837,
+  "fallbackIntent": false,
+  "events": []
+}

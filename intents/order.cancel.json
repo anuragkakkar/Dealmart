@@ -1,0 +1,44 @@
+{
+  "id": "d6e4adf3-b575-4621-82aa-411c4753e5c9",
+  "name": "order.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.cancel",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac5c4aee-ca6c-43d1-951d-21dad106a849",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "order_number",
+          "value": "$order_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I can cancel the order. What\u0027s the order number?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you! I submitted the cancellation request. A ticket is generated against your cancellation. You should get the details via email."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529311998,
+  "fallbackIntent": false,
+  "events": []
+}

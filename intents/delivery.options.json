@@ -1,0 +1,42 @@
+{
+  "id": "8ab7f976-ab22-4689-9d7d-356a76fcea1c",
+  "name": "delivery.options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.options",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can check the shipping charges and time frames on the Delivery page of our website."
+        },
+        {
+          "type": 1,
+          "lang": "en",
+          "title": "Card Title Here",
+          "subtitle": "Card Subtitle Here",
+          "imageUrl": "https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg?w\u003d640\u0026ssl\u003d1",
+          "buttons": [
+            {
+              "text": "Delivery",
+              "postback": "https://www.examplestore.com/delivery"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529348232,
+  "fallbackIntent": false,
+  "events": []
+}

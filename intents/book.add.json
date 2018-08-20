@@ -1,0 +1,38 @@
+{
+  "id": "25d80544-4861-448f-adcc-407f195eeff4",
+  "name": "book.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "book.add",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "812d79f4-0d22-4820-b058-bcef00046eb8",
+          "required": false,
+          "dataType": "@book",
+          "name": "book",
+          "value": "$book",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, I have added the book to your cart in the Book section. This is a great read!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529950284,
+  "fallbackIntent": false,
+  "events": []
+}

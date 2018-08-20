@@ -1,0 +1,236 @@
+[
+  {
+    "id": "cbed3c2c-1d43-4ea4-9564-33aa95891ef1",
+    "data": [
+      {
+        "text": "Remove ",
+        "userDefined": false
+      },
+      {
+        "text": "iphone",
+        "alias": "mobile",
+        "meta": "@mobile",
+        "userDefined": false
+      },
+      {
+        "text": " from the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "48fe86d6-0d44-42d3-9e94-ccc5ea89d165",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "alias": "book",
+        "meta": "@book",
+        "userDefined": false
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "76b4e0c5-c2e5-47ef-9a45-f80589b062c5",
+    "data": [
+      {
+        "text": "erase the product from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "e67efeaa-0c8e-4979-8362-03b94e26bdab",
+    "data": [
+      {
+        "text": "I have found a better ",
+        "userDefined": false
+      },
+      {
+        "text": "tv",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": " remove it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "ee7b7a95-68a3-4fac-904f-08596c1a508a",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "sweater",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " from the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "88b0497f-72ac-4573-b227-647a883930fe",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "727749e9-16d2-446f-98c3-630d9442d19d",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "hat",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": true
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "3c705feb-8e79-4220-b87a-0af6ffc411db",
+    "data": [
+      {
+        "text": "delete the item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "5329c5af-7de1-40d1-b7e3-af57ff885e84",
+    "data": [
+      {
+        "text": "remove the item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "3cd2d64d-ee4b-4746-8441-6f52a0688876",
+    "data": [
+      {
+        "text": "remove these ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": false
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "b840d98a-fe2c-4192-b010-4fecb0228189",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "clothingaccessories",
+        "meta": "@clothingaccessories",
+        "userDefined": true
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  },
+  {
+    "id": "dfd758fe-94cc-4328-bff6-070f5924babc",
+    "data": [
+      {
+        "text": "I\u0027ve changed my mind about ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "electronics",
+        "meta": "@electronics",
+        "userDefined": false
+      },
+      {
+        "text": ", remove it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529308771
+  }
+]

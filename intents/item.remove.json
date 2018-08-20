@@ -1,0 +1,73 @@
+{
+  "id": "a41591ea-f65a-4179-8593-a93dc83fad1e",
+  "name": "item.remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "item.remove",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b458e6e5-1e1f-4245-be84-051337ee9f87",
+          "required": false,
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        },
+        {
+          "id": "ba144f5d-9281-4607-aa20-e8e58804b0e2",
+          "dataType": "@electronics",
+          "name": "electronics",
+          "value": "$electronics",
+          "isList": false
+        },
+        {
+          "id": "416acc41-4435-4169-96dc-824ad3244d1a",
+          "dataType": "@clothingaccessories",
+          "name": "clothingaccessories",
+          "value": "$clothingaccessories",
+          "isList": false
+        },
+        {
+          "id": "e69e9294-895c-4caf-8636-db97624cf12b",
+          "dataType": "@book",
+          "name": "book",
+          "value": "$book",
+          "isList": false
+        },
+        {
+          "id": "89f60564-6f99-4cce-9885-5cfbd14f4633",
+          "dataType": "@mobile",
+          "name": "mobile",
+          "value": "$mobile",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok, I removed the item.",
+            "Okay, I have removed $product from your cart!",
+            "Okay, I have removed $mobile from your cart!",
+            "Okay, I have removed $book from your cart!",
+            "Okay, I have removed $electronics from your cart!",
+            "Okay, I have removed $clothingaccessories from your cart!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529308771,
+  "fallbackIntent": false,
+  "events": []
+}

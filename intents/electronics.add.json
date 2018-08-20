@@ -1,0 +1,38 @@
+{
+  "id": "3dbc5698-b176-42fe-b2f7-d51ee94038ba",
+  "name": "electronics.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "electronics.add",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dbe0d339-31b6-4a59-82d7-4129407344a3",
+          "required": false,
+          "dataType": "@electronics",
+          "name": "electronics",
+          "value": "$electronics",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, I have added $electronics to your cart in the Electronics section! Enjoy!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529338139,
+  "fallbackIntent": false,
+  "events": []
+}

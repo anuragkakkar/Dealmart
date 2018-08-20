@@ -1,0 +1,82 @@
+{
+  "id": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search",
+      "affectedContexts": [
+        {
+          "name": "productsearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1afbc4a7-0b94-407e-913b-dcb269da42a0",
+          "required": false,
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        },
+        {
+          "id": "f1fe0e16-596c-429e-a377-3ce837911287",
+          "required": false,
+          "dataType": "@clothingaccessories",
+          "name": "clothingaccessories",
+          "value": "$clothingaccessories",
+          "isList": false
+        },
+        {
+          "id": "21ac397f-2364-4da1-9998-9f425d08281e",
+          "required": false,
+          "dataType": "@electronics",
+          "name": "electronics",
+          "value": "$electronics",
+          "isList": false
+        },
+        {
+          "id": "eec75dce-175f-4e85-b316-88478f9f22b2",
+          "required": false,
+          "dataType": "@book",
+          "name": "book",
+          "value": "$book",
+          "isList": false
+        },
+        {
+          "id": "3e21042c-c33b-4959-a2fe-af6d2b7f19e0",
+          "required": false,
+          "dataType": "@mobile",
+          "name": "mobile",
+          "value": "$mobile",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here are the top picks for $product.  To navigate, you can say things like \"next\", \"back\", or \"more about number 3\".",
+            "Here are the top picks for $mobile.  To navigate, you can say things like \"next\", \"back\", or \"more about number 3\".",
+            "Here are the top picks for $clothingaccessories.  To navigate, you can say things like \"next\", \"back\", or \"more about number 3\".",
+            "Here are the top picks for $electronics.  To navigate, you can say things like \"next\", \"back\", or \"more about number 3\".",
+            "Here are the top picks for $book.  To navigate, you can say things like \"next\", \"back\", or \"more about number 3\"."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530203802,
+  "fallbackIntent": false,
+  "events": []
+}

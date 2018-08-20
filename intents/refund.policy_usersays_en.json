@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ee04c8bb-057e-416d-8cf9-a12170985d1d",
+    "data": [
+      {
+        "text": " I demand a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317597
+  },
+  {
+    "id": "cd63b8fd-6ada-4b14-a947-853708c08a88",
+    "data": [
+      {
+        "text": "how handles your refund section",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "0b56caff-4639-4730-928b-355efcb9bdcc",
+    "data": [
+      {
+        "text": "i need to return the final product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "a9b03ca5-3798-4efe-adc9-979dfc5cf9c1",
+    "data": [
+      {
+        "text": "provide me my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "1ec9440f-70de-4ab7-a9eb-b569ccdd36ab",
+    "data": [
+      {
+        "text": "i require a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "04f7045e-b8ab-4dc1-b112-036a2c0f4499",
+    "data": [
+      {
+        "text": "your product is late. I need to return it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "8ab99d67-754d-4753-96b8-f33d05ee6b8a",
+    "data": [
+      {
+        "text": "I don\u0027t need the product now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "b18e5059-be2d-48a0-95f2-b7cf2219f016",
+    "data": [
+      {
+        "text": "I don\u0027t like the product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "945043fe-f174-4c04-ab0c-cf01162275ad",
+    "data": [
+      {
+        "text": "Please take the item back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "b4114d20-3ea7-4e5a-aa18-53ba761d8e3e",
+    "data": [
+      {
+        "text": "I need to return the product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "4409589c-77e5-486c-9122-38e6656277c2",
+    "data": [
+      {
+        "text": "how\u0027d i get my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "7b544817-044b-4c3a-9081-a2c916ff71f0",
+    "data": [
+      {
+        "text": "give my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "28498a70-f400-4710-a73f-b99e53acca09",
+    "data": [
+      {
+        "text": "refund me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "9a42b06b-f61d-4edb-965a-6c5d59e8bb2b",
+    "data": [
+      {
+        "text": "tell me refund policy.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "707f41f3-3da0-4cf3-b8f4-bd4d9d967e58",
+    "data": [
+      {
+        "text": "can you elaborate your return policies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "e45bbf60-02e0-4e8c-b65b-ece7110aec6a",
+    "data": [
+      {
+        "text": "I need to know your return policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "d6db37b2-9e4b-4a45-bbd5-75a156c3af08",
+    "data": [
+      {
+        "text": "return my money.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "b4f58312-5767-4ab8-b893-b3804237cea1",
+    "data": [
+      {
+        "text": "what if I don\u0027t like the product? Can I get my money back, what are the policies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "9d258f88-223a-4c98-bdc5-9147a80f7730",
+    "data": [
+      {
+        "text": "can you direct me to your refund policies page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "a0ab87db-0290-420f-a8b5-70674f685c10",
+    "data": [
+      {
+        "text": "refund policies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "de3cc2a8-ed33-4733-9834-b5fc934d8587",
+    "data": [
+      {
+        "text": "are there any refund polices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "9edb219d-201e-4787-8952-2e5277e3c206",
+    "data": [
+      {
+        "text": "show me your refund policies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529317366
+  },
+  {
+    "id": "b22a8062-abdd-4448-9683-4314580f5fe6",
+    "data": [
+      {
+        "text": "What\u0027s the refund policy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508872945
+  }
+]

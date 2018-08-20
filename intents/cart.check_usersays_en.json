@@ -1,0 +1,98 @@
+[
+  {
+    "id": "132179e4-167e-4bde-9c32-6258d164abda",
+    "data": [
+      {
+        "text": "products in my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "4cc6b52f-3d46-4330-9733-3fcf5f0f66e4",
+    "data": [
+      {
+        "text": "show items in my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "dbbff39b-30e3-461c-9a53-f5955627f820",
+    "data": [
+      {
+        "text": "check what\u0027s in my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "c5656de6-e5b4-452a-8511-d11731719b78",
+    "data": [
+      {
+        "text": "cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "2b4feee2-348b-4dfb-8aac-9e8e8e37ea46",
+    "data": [
+      {
+        "text": "check my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "d06faf62-eb92-4c17-9347-53c12cea76d6",
+    "data": [
+      {
+        "text": "what items are in my cart at the moment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "529d62ae-9e0a-45ec-9bbd-d93a6253f247",
+    "data": [
+      {
+        "text": "what\u0027s in my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529295742
+  },
+  {
+    "id": "e68d32c1-968c-41e1-b3e6-6d4f3f565534",
+    "data": [
+      {
+        "text": "check cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508947090
+  }
+]

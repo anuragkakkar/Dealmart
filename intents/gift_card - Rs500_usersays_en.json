@@ -1,0 +1,112 @@
+[
+  {
+    "id": "30961241-51e7-4fa2-ae03-4e884ec322e0",
+    "data": [
+      {
+        "text": "purchase ",
+        "userDefined": false
+      },
+      {
+        "text": "Rs. 500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  },
+  {
+    "id": "48cf9052-5cf0-45f6-8c88-30e3e001ca38",
+    "data": [
+      {
+        "text": "I need to buy a gift card of ",
+        "userDefined": false
+      },
+      {
+        "text": "500 rupees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  },
+  {
+    "id": "641e59d1-a007-497d-8d00-be8f71711f19",
+    "data": [
+      {
+        "text": "500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  },
+  {
+    "id": "a37caaa6-633c-462a-b5ec-7eaeca96089a",
+    "data": [
+      {
+        "text": "the cheapest option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  },
+  {
+    "id": "6f747726-568e-4738-9f48-5c06a248cc49",
+    "data": [
+      {
+        "text": "the last ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  },
+  {
+    "id": "d662a178-7081-4f95-982d-a3c60c5ac048",
+    "data": [
+      {
+        "text": "Rs. 500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  },
+  {
+    "id": "3699ac29-b27d-414c-9988-1ab6669aca14",
+    "data": [
+      {
+        "text": "five",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hundred",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529299944
+  }
+]

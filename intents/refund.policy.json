@@ -1,0 +1,47 @@
+{
+  "id": "0b5d936b-8b1e-4c08-bed6-a844c8fc4514",
+  "name": "refund.policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "refund.policy",
+      "affectedContexts": [
+        {
+          "name": "refundpolicy-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Refund"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Our refund policy allows you to return or exchange items. Shipping fees may apply for exchanges. For more information, contact us on our e-mail."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529317597,
+  "fallbackIntent": false,
+  "events": []
+}

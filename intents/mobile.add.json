@@ -1,0 +1,38 @@
+{
+  "id": "1709b0ce-a58f-4039-bf71-cdeb450b5d41",
+  "name": "mobile.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mobile.add",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "478a19c2-1b86-413d-a070-9795d59e60f9",
+          "required": false,
+          "dataType": "@mobile",
+          "name": "mobile",
+          "value": "$mobile",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, I have added the $mobile phone to your cart in the Mobile section!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529306844,
+  "fallbackIntent": false,
+  "events": []
+}

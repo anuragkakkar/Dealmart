@@ -1,0 +1,122 @@
+[
+  {
+    "id": "70d7fbf6-d2b0-4e90-bf75-7010163b6481",
+    "data": [
+      {
+        "text": "what are the delivery options that I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "1b813a8e-07f6-4486-9292-26f88ea90e8e",
+    "data": [
+      {
+        "text": "delivery rates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "257e17a4-ddbf-4bce-93ce-04bc59eca6fd",
+    "data": [
+      {
+        "text": "delivery charges",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "d433be41-e3c8-4a65-80fa-98fa95cb4786",
+    "data": [
+      {
+        "text": "shipping rates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "35366b13-d6b0-401e-be81-32e9a2bd10b8",
+    "data": [
+      {
+        "text": "shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "a4c150da-199e-48bf-a822-08f18f71a28e",
+    "data": [
+      {
+        "text": "delivery time frames",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "61138297-cec5-4b35-b3bf-9ae21bab6261",
+    "data": [
+      {
+        "text": "delivery options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "93fb77d3-17fd-4450-91b5-64609423b921",
+    "data": [
+      {
+        "text": "check delivery options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "61486de4-dc6f-463b-8972-d666fdf154f6",
+    "data": [
+      {
+        "text": "what are the shipping options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  },
+  {
+    "id": "5cbbd63f-dc4d-4333-b1a8-df33fb8a3b1f",
+    "data": [
+      {
+        "text": "can you show me delivery options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529348232
+  }
+]
